@@ -18,7 +18,7 @@ steam.styles
 	{
 		URLBarSecure
 		{
-			textcolor="green"
+			textcolor="SecureURL"
 		}
 		URLBarBrokenSecure
 		{
